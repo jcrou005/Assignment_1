@@ -1,0 +1,35 @@
+1)
+C:\Users\John\Documents\ODU\Spring 2016\CS 432 (Web Science)\Assignment_1_JAC>py
+thon Assignment_1.py http://www.cs.odu.edu/~mln/teaching/cs532-s16/test/pdfs.htm
+l
+(u'http://www.cs.odu.edu/~mln/pubs/ht-2015/hypertext-2015-temporal-violations.pd
+f   Size: ', 2184076)
+(u'http://www.cs.odu.edu/~mln/pubs/tpdl-2015/tpdl-2015-annotations.pdf   Size: '
+, 622981)
+(u'http://arxiv.org/pdf/1512.06195   Size: ', 1748961)
+(u'http://www.cs.odu.edu/~mln/pubs/tpdl-2015/tpdl-2015-off-topic.pdf   Size: ',
+4308768)
+(u'http://www.cs.odu.edu/~mln/pubs/tpdl-2015/tpdl-2015-stories.pdf   Size: ', 12
+74604)
+(u'http://www.cs.odu.edu/~mln/pubs/tpdl-2015/tpdl-2015-profiling.pdf   Size: ',
+639001)
+(u'http://bit.ly/1ZDatNK   Size: ', 720476)
+(u'http://www.cs.odu.edu/~mln/pubs/jcdl-2015/jcdl-2015-mink.pdf   Size: ', 12546
+05)
+(u'http://www.cs.odu.edu/~mln/pubs/jcdl-2015/jcdl-2015-arabic-sites.pdf   Size:
+', 709420)
+(u'http://www.cs.odu.edu/~mln/pubs/jcdl-2015/jcdl-2015-dictionary.pdf   Size: ',
+ 2350603)
+
+
+2)
+C:\Users\John\Documents\ODU\Spring 2016\CS 432 (Web Science)\Assignment_1_JAC>py
+thon Assignment_1.py http://www.cs.odu.edu
+(For some reason I can only get my program to work, even partially for required website)
+
+
+3)
+C:\Users\John\Documents\ODU\Spring 2016\CS 432 (Web Science)\Assignment_1_JAC>py
+thon Assignment_1.py http://www.odu.edu/life/parking-and-transportation/parking/
+map
+(Unsure why it didn't work on the pdfs for this page.)
